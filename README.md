@@ -2,11 +2,11 @@
 
 https://www.youtube.com/playlist?list=PLzrb6iZd6X9ISNYeXvX-vKGWwn5I7aPRD 👈
 
-Examples and Assignments Download: 
+**Examples and Assignments Download:** 
 
 https://github.com/ahujarohit/desktop-gui-dev
 
-Doubts, Queries and Custom Trainings: 
+**Doubts, Queries and Custom Trainings:** 
 
 WhatsApp 8109000401
 
